@@ -6,7 +6,7 @@ This repository contains a Power BI dashboard of IBM Employee Attrition to answe
 
 ## Screenshot
 
-![dashboard](<img width="1297" height="717" alt="image" src="https://github.com/user-attachments/assets/1482b7aa-4f9a-4a01-9249-a4562aae7cd9" />)
+![dashboard](https://github.com/user-attachments/assets/1482b7aa-4f9a-4a01-9249-a4562aae7cd9")
 ![dashboard](<img width="1291" height="775" alt="image" src="https://github.com/user-attachments/assets/64655edb-ca8a-498d-9094-5806a48cb94a" />)
 ![dashboard](<img width="1290" height="714" alt="image" src="https://github.com/user-attachments/assets/d57b8616-fda5-44de-97bf-5e840abcd543" />)
 ![insights](<img width="1290" height="717" alt="image" src="https://github.com/user-attachments/assets/404c1b6b-705a-412d-a53a-3557a9fa84b4" />)
