@@ -16,6 +16,7 @@ This repository contains a Power BI dashboard of IBM Employee Attrition to answe
 <br><br>
 <img width="1280" height="723" alt="image" src="https://github.com/user-attachments/assets/1b252f10-0333-43f0-b149-32ae7f906c3d" />
 <br><br>
+
 ## Installation
 
 To run this project on your machine you need to install <a href="https://powerbi.microsoft.com/en-us/downloads/">Microsoft Power Bi</a>.
@@ -27,11 +28,6 @@ To run this project on your machine you need to install <a href="https://powerbi
 ## Credits
 
 This dataset was downloaded from Kaggle: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
-
-## Badges
-
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## Project Learnings
 
