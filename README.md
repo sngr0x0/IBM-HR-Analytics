@@ -4,13 +4,13 @@
 
 This repository contains a Power BI dashboard of IBM Employee Attrition to answer questions about the data. The insights of the dashboard can be found in the results file.  This repository can be used as a starting point for anyone who wants to learn how to use Power BI to analyze data.
 
-## Screenshot
+## Screenshots
 
-![dashboard](https://github.com/user-attachments/assets/1482b7aa-4f9a-4a01-9249-a4562aae7cd9")
-![dashboard](<img width="1291" height="775" alt="image" src="https://github.com/user-attachments/assets/64655edb-ca8a-498d-9094-5806a48cb94a" />)
-![dashboard](<img width="1290" height="714" alt="image" src="https://github.com/user-attachments/assets/d57b8616-fda5-44de-97bf-5e840abcd543" />)
-![insights](<img width="1290" height="717" alt="image" src="https://github.com/user-attachments/assets/404c1b6b-705a-412d-a53a-3557a9fa84b4" />)
-![recommendations](<img width="1280" height="723" alt="image" src="https://github.com/user-attachments/assets/1b252f10-0333-43f0-b149-32ae7f906c3d" />)
+<img width="1296" height="768" alt="image" src="https://github.com/user-attachments/assets/2e1d877f-3bce-4e72-99ff-2687affdb13c" />
+<img width="1291" height="775" alt="image" src="https://github.com/user-attachments/assets/64655edb-ca8a-498d-9094-5806a48cb94a" />
+<img width="1290" height="714" alt="image" src="https://github.com/user-attachments/assets/d57b8616-fda5-44de-97bf-5e840abcd543" />
+<img width="1290" height="717" alt="image" src="https://github.com/user-attachments/assets/404c1b6b-705a-412d-a53a-3557a9fa84b4" />
+<img width="1280" height="723" alt="image" src="https://github.com/user-attachments/assets/1b252f10-0333-43f0-b149-32ae7f906c3d" />
 
 ## Installation
 
